@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1673299892 source:e:\laura\informatica\proiect_ip_combined\functioneva.cpp
+	<iostream>
+	<graphics.h>
+	<stdio.h>
+	<cmath>
+	<stack>
+	"functionEva.h"
+
+1673299819 e:\laura\informatica\proiect_ip_combined\functioneva.h
+
+1673307367 source:e:\laura\informatica\proiect_ip_combined\main.cpp
+	<stdio.h>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<graphics.h>
+	<winbgim.h>
+	<cstring>
+	<iostream>
+	<iomanip>
+	<stack>
+	<cmath>
+	"functionEva.h"
+
+1671665519 source:e:\laura\informatica\proiect_ip_combined\mainro.cpp
+
+1672337527 source:e:\laura\informatica\proiect_ip_combined\mathlib.cpp
+	<iostream>
+	<cmath>
+	<graphics.h>
+	"mathlib.h"
+
+1672332843 e:\laura\informatica\proiect_ip_combined\mathlib.h
+
+1671717943 source:e:\laura\informatica\proiect_ip_combined\sd.cpp
+
+1711821457 source:c:\users\laura\documents\b3_grafic_maximiuc_teodora_chiriac_laura\proiect_ip_combined\functioneva.cpp
+	<iostream>
+	<graphics.h>
+	<stdio.h>
+	<cmath>
+	<stack>
+	"functionEva.h"
+
+1673299819 c:\users\laura\documents\b3_grafic_maximiuc_teodora_chiriac_laura\proiect_ip_combined\functioneva.h
+
+1711821457 source:c:\users\laura\documents\b3_grafic_maximiuc_teodora_chiriac_laura\proiect_ip_combined\main.cpp
+	<stdio.h>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<graphics.h>
+	<winbgim.h>
+	<cstring>
+	<iostream>
+	<iomanip>
+	<stack>
+	<cmath>
+	"functionEva.h"
+
