@@ -1,4 +1,4 @@
-# Graph_Builder
+# Graph Builder
 App for handling function graphs and different relevant points/lines associated with their respective graphs. Made in C++ only, just using the WinBGIm Graphics Library (https://home.cs.colorado.edu/~main/bgi/doc/)  for interface.
 
 ### Specifications
